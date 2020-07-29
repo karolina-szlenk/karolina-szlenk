@@ -9,16 +9,16 @@ I'm focus on learning how to create web applications and websites using new tech
 My favorites:
 - 🐱 cats
 - 🏋️‍♀️ gym
-- 🥜 peanut butter [![instagram.png](https://i.postimg.cc/br4z3Lb7/instagram.png)](https://www.instagram.com/kocham.maslo.orzechowe/) [![icons8-typescript-48.png](https://i.postimg.cc/26RcCWY4/icons8-typescript-48.png)](https://www.facebook.com/kochammasloorzechowe/)
+- 🥜 peanut butter [![instagram.png](https://i.postimg.cc/br4z3Lb7/instagram.png)](https://www.instagram.com/kocham.maslo.orzechowe/) [![facebook.png](https://i.postimg.cc/FsBw27Yx/facebook.png)](https://www.facebook.com/kochammasloorzechowe/)
 
 🛠 My skills
 ============
-- ![html5.png](https://postimg.cc/ppVHy8xc) HTML
-- ![css3.png](https://postimg.cc/tsDr4Sp7) CSS
-- ![sass.png](https://postimg.cc/zV7wCyMc) Sass
+- ![html5.png](https://i.postimg.cc/HsXsZ4Nm/icons8-html-5-48.png) HTML
+- ![css3.png](https://i.postimg.cc/25NgTMtd/icons8-css3-48.png) CSS
+- ![sass.png](https://i.postimg.cc/fRnHhXvD/icons8-sass-48.png) Sass
 - ![javascript.png](https://i.postimg.cc/ydMRShxN/icons8-javascript-48.png) JavaScript
-- ![icons8-react-native-48.png](https://postimg.cc/hzh455Pm) React
-- ![icons8-redux-48.png](https://postimg.cc/t7xpnP19) Redux
-- ![icons8-npm-48.png](https://postimg.cc/BPQzgrSW) Npm
-- ![icons8-webpack-64.png](https://postimg.cc/21zDtK05) Webpack
-- ![icons8-typescript-48.png](https://postimg.cc/B8pcgXX6) TypeScript - 🌱 currently learning
+- ![react.png](https://i.postimg.cc/4dQKnDDW/icons8-react-native-48.png) React
+- ![redux.png](https://i.postimg.cc/QN6tPJhK/icons8-redux-48.png) Redux
+- ![npm.png](https://i.postimg.cc/C5jVF09K/icons8-npm-48.png) Npm
+- ![webpack.png](https://i.postimg.cc/JzXzswJj/icons8-webpack-64.png) Webpack
+- ![typescript.png](https://i.postimg.cc/26RcCWY4/icons8-typescript-48.png) TypeScript - 🌱 currently learning
