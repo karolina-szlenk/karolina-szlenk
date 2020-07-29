@@ -2,7 +2,7 @@
   <img src="https://i.postimg.cc/3NNRLdqv/karo-readme.png" alt="Karo with her favorites"/>
 </p>
 
-============
+***
 
 👧 About me
 ============
