@@ -1,4 +1,4 @@
-[karo-readme.png](https://i.postimg.cc/3NNRLdqv/karo-readme.png)
+[![karo-readme.png](https://i.postimg.cc/3NNRLdqv/karo-readme.png)]
 _______________________
 
 👧 About me
