@@ -1,4 +1,6 @@
-![karo-readme.png](https://i.postimg.cc/3NNRLdqv/karo-readme.png)
+<p align="center">
+  <img src="https://i.postimg.cc/3NNRLdqv/karo-readme.png" alt="Karo with her favorites"/>
+</p>
 _______________________
 
 👧 About me
