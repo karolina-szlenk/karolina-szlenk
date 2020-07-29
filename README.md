@@ -1,4 +1,4 @@
-[![karo-readme.png](https://i.postimg.cc/3NNRLdqv/karo-readme.png)]
+[karo-readme.png](https://i.postimg.cc/3NNRLdqv/karo-readme.png)
 _______________________
 
 👧 About me
@@ -13,13 +13,13 @@ My favorites:
 
 🛠 My skills
 ============
-- [![html5.png](https://i.postimg.cc/q7cd241H/html5.png)]
-- [![css.png](https://i.postimg.cc/26PJttc7/css.png)]
-SASS
-- [![icons8-javascript-48.png](https://i.postimg.cc/ydMRShxN/icons8-javascript-48.png)]
-React
-Redux
-Npm
-Webpack
+- [html5.png](https://postimg.cc/ppVHy8xc) HTML
+- [css3.png](https://postimg.cc/tsDr4Sp7) CSS
+- [sass.png](https://postimg.cc/zV7wCyMc) Sass
+- [javascript.png](https://i.postimg.cc/ydMRShxN/icons8-javascript-48.png) JavaScript
+- React
+- Redux
+- Npm
+- Webpack
 
-I’m currently learning Typescript
+- Currently learning Typescript
