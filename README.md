@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://i.postimg.cc/3NNRLdqv/karo-readme.png" alt="Karo with her favorites"/>
 </p>
-_______________________
+_________________________________________________________________________________________________________________________________________________
 
 👧 About me
 ============
@@ -13,6 +13,7 @@ My favorites:
 - 🏋️‍♀️ gym
 - 🥜 peanut butter [![instagram.png](https://i.postimg.cc/br4z3Lb7/instagram.png)](https://www.instagram.com/kocham.maslo.orzechowe/) [![facebook.png](https://i.postimg.cc/FsBw27Yx/facebook.png)](https://www.facebook.com/kochammasloorzechowe/)
 
+
 🛠 My skills
 ============
 ![html5.png](https://i.postimg.cc/HsXsZ4Nm/icons8-html-5-48.png)
@@ -23,5 +24,4 @@ My favorites:
 ![redux.png](https://i.postimg.cc/QN6tPJhK/icons8-redux-48.png)
 ![npm.png](https://i.postimg.cc/C5jVF09K/icons8-npm-48.png)
 ![webpack.png](https://i.postimg.cc/d01bXrBn/webpack-original-logo-icon-146300.png)
-
-- 🌱 currently learning ![typescript.png](https://i.postimg.cc/26RcCWY4/icons8-typescript-48.png)
+![typescript.png](https://i.postimg.cc/26RcCWY4/icons8-typescript-48.png)
