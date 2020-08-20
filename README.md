@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.postimg.cc/3NNRLdqv/karo-readme.png" alt="Karo with her favorites"/>
+  <img src="https://i.postimg.cc/260pKX7s/karo-readme.png" alt="Karo with her favorites"/>
 </p>
 
 ***
