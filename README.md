@@ -9,6 +9,8 @@
 I’m looking for an intern or a first job as Junior Front-end Developer 👩‍💻. 
 I'm focus on learning how to create web applications and websites using new technologies 💻📲.
 
+My strengths are good organization, analytical thinking, reliability, teamwork and commitment.
+
 My favorites:
 - 🐱 cats
 - 🏋️‍♀️ gym
@@ -26,3 +28,9 @@ My favorites:
 ![npm.png](https://i.postimg.cc/C5jVF09K/icons8-npm-48.png)
 ![webpack.png](https://i.postimg.cc/d01bXrBn/webpack-original-logo-icon-146300.png)
 ![typescript.png](https://i.postimg.cc/26RcCWY4/icons8-typescript-48.png)
+![jest.png](https://i.postimg.cc/xCc0ZhxW/file-type-jest-snapshot-icon-130513.png)
+
+
+🔜 My plans
+============
+In the near future, I plan to expand my knowledge of **React**, **TypeScript** and writing tests in **Jest** and **React Testing Library**. Then I'm going to learn about **Node JS**, **MongoDB**, **Vue.js** and **Angular**.
