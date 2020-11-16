@@ -2,23 +2,23 @@
   <img src="https://i.postimg.cc/260pKX7s/karo-readme.png" alt="Karo with her favorites"/>
 </p>
 
-***
+---
 
-👧 About me
-============
-I’m looking for an intern or a first job as Junior Front-end Developer 👩‍💻. 
+# 👧 About me
+
+I am working as Intern Front-end Developer 👩‍💻 in OKE Poland company.
 I'm focus on learning how to create web applications and websites using new technologies 💻📲.
 
 My strengths are good organization, analytical thinking, reliability, teamwork and commitment.
 
 My favorites:
+
 - 🐱 cats
 - 🏋️‍♀️ gym
 - 🥜 peanut butter [![instagram.png](https://i.postimg.cc/br4z3Lb7/instagram.png)](https://www.instagram.com/kocham.maslo.orzechowe/) [![facebook.png](https://i.postimg.cc/FsBw27Yx/facebook.png)](https://www.facebook.com/kochammasloorzechowe/)
 
+# 🛠 My skills
 
-🛠 My skills
-============
 ![html5.png](https://i.postimg.cc/HsXsZ4Nm/icons8-html-5-48.png)
 ![css3.png](https://i.postimg.cc/25NgTMtd/icons8-css3-48.png)
 ![sass.png](https://i.postimg.cc/fRnHhXvD/icons8-sass-48.png)
@@ -30,7 +30,6 @@ My favorites:
 ![typescript.png](https://i.postimg.cc/26RcCWY4/icons8-typescript-48.png)
 ![jest.png](https://i.postimg.cc/xCc0ZhxW/file-type-jest-snapshot-icon-130513.png)
 
+# 🔜 My plans
 
-🔜 My plans
-============
 In the near future, I plan to expand my knowledge of **React**, **TypeScript** and writing tests in **Jest** and **React Testing Library**. Then I'm going to learn about **Node JS**, **MongoDB**, **Vue.js** and **Angular**.
