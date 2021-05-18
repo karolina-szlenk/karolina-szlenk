@@ -6,16 +6,19 @@
 
 # 👧 About me
 
-I am working as Intern Front-end Developer 👩‍💻 in OKE Poland company.
-I'm focus on learning how to create web applications and websites using new technologies 💻📲.
+👩‍💻 I am working as Junior Front-end Developer for OKE Poland company.
 
-My strengths are good organization, analytical thinking, reliability, teamwork and commitment.
+💼 Currently, I'm a member of an international team 🌎 that develops an existing web application 💻 according to customer requirements. Everyday, I develop my front-end skills, especially **React**.
 
-My favorites:
+🏠 After work, I also learn **TypeScript**, **Node JS** making my own projects and try to write tests using **Jest** and **React Testing Library**.
+
+💪 My strengths are good organization, analytical thinking, reliability, teamwork and commitment.
+
+💚 My favorites:
 
 - 🐱 cats
 - 🏋️‍♀️ gym
-- 🥜 peanut butter [![instagram.png](https://i.postimg.cc/br4z3Lb7/instagram.png)](https://www.instagram.com/kocham.maslo.orzechowe/) [![facebook.png](https://i.postimg.cc/FsBw27Yx/facebook.png)](https://www.facebook.com/kochammasloorzechowe/)
+- 🥜 peanut butter
 
 # 🛠 My skills
 
@@ -32,4 +35,4 @@ My favorites:
 
 # 🔜 My plans
 
-In the near future, I plan to expand my knowledge of **React**, **TypeScript** and writing tests in **Jest** and **React Testing Library**. Then I'm going to learn about **Node JS**, **MongoDB**, **Vue.js** and **Angular**.
+In the near future, I plan to expand my knowledge of more advanced **React**, **TypeScript**, **Jest**, **React Testing Library**, **Node JS** and **MongoDB**. Then I'm going to study **Vue.js** and **Angular**.
