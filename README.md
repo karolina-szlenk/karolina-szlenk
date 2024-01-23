@@ -38,4 +38,4 @@
 
 # 🔜 My plans
 
-In the near future, I plan to expand my knowledge of more advanced **Typescript** and use that in practise. I'm going to start learning **React Native** and **Svelte** either.
+In the near future, I'm going to start learning **React Native** and **Svelte** either.
