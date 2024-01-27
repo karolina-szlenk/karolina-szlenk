@@ -38,4 +38,5 @@
 
 # 🔜 My plans
 
-In the near future, I'm going to start learning **React Native** and **Svelte** either.
+Currently, I'm learning **Svelte**.
+In the near future, I'm going to start learning **React Native**.
