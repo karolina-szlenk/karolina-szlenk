@@ -10,7 +10,7 @@
 
 💼 I'm a member of an international team 🌎 that develops an existing web application 💻 according to customer requirements. The scope of my work are frontend technologies, especially **React**, **Next** and **Typescript**.
 
-🏠 In my free time, I'm eager to develop my skills including **CSS**, **CSS Animations** and **Next** in terms of a performance boost. Currently, I'm keen on AI and trying to be up to date with AI news and trends.
+🏠 In my free time, I'm eager to develop my skills including **CSS**, **Next** in terms of a performance boost. Currently, I'm keen on AI and trying to be up to date with AI news and trends.
 
 💪 My strengths are good organization, analytical thinking, reliability, teamwork and commitment.
 
@@ -38,5 +38,4 @@
 
 # 🔜 My plans
 
-Currently, I'm learning **Svelte**.
-In the near future, I'm going to start learning **React Native**.
+In the near future, I'm going to mainly focus on learning key concepts related to LLM and build my own AI solutions.
