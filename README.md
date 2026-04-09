@@ -6,7 +6,7 @@
 
 # 👧 About me
 
-👩‍💻 I'm working as Front-end Developer for Dutch company.
+👩‍💻 Front-end Developer | AI freak
 
 💼 I'm a member of an international team 🌎 that develops an existing web application 💻 according to customer requirements. The scope of my work are frontend technologies, especially **React**, **Next** and **Typescript**.
 
