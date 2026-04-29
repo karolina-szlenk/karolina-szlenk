@@ -10,7 +10,7 @@
 
 💼 I have experience building websites and web applications, primarily in the e-commerce space, where I’ve developed web shops. Most of my projects have been based on **React**, **Next** and **Typescript**, though I’ve also worked with legacy codebases.
 
-🛠️ Fascinated by AI tools like **Claude Code** and **Cursor**, I build solutions using an **SD**D (Software-Driven Development) approach. I’m currently exploring the use of AI across the entire software development lifecycle (SDLC). Additionally, I create my own products by designing and implementing AI workflows and AI agents tailored to specific needs.
+🤖 Fascinated by AI tools like **Claude Code** and **Cursor**, I build solutions using an **SD**D (Software-Driven Development) approach. I’m currently exploring the use of AI across the entire software development lifecycle (SDLC). Additionally, I create my own products by designing and implementing AI workflows and AI agents tailored to specific needs.
 I also actively follow the evolution of the AI ecosystem and experiment with new approaches to developer automation, focusing on improving productivity and the quality of delivered solutions.
 
 💪 My strengths are good organization, analytical thinking, reliability, teamwork and commitment.
@@ -39,4 +39,8 @@ I also actively follow the evolution of the AI ecosystem and experiment with new
 
 # 🔜 My plans
 
-In the near future, I'm going to mainly focus on learning key concepts related to LLM and build my own AI solutions.
+I aim to specialize in AI and build solutions in this field.
+
+# 🤝 Open to opportunities
+
+I’m open to new opportunities and cool projects. If you have an idea or want to collaborate - feel free to email me!
