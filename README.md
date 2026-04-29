@@ -8,9 +8,10 @@
 
 👩‍💻 Front-end Developer | AI freak
 
-💼 I'm a member of an international team 🌎 that develops an existing web application 💻 according to customer requirements. The scope of my work are frontend technologies, especially **React**, **Next** and **Typescript**.
+💼 I have experience building websites and web applications, primarily in the e-commerce space, where I’ve developed web shops. Most of my projects have been based on **React**, **Next** and **Typescript**, though I’ve also worked with legacy codebases.
 
-🏠 In my free time, I'm eager to develop my skills including **CSS**, **Next** in terms of a performance boost. Currently, I'm keen on AI and trying to be up to date with AI news and trends.
+🛠️ Fascinated by AI tools like **Claude Code** and **Cursor**, I build solutions using an **SD**D (Software-Driven Development) approach. I’m currently exploring the use of AI across the entire software development lifecycle (SDLC). Additionally, I create my own products by designing and implementing AI workflows and AI agents tailored to specific needs.
+I also actively follow the evolution of the AI ecosystem and experiment with new approaches to developer automation, focusing on improving productivity and the quality of delivered solutions.
 
 💪 My strengths are good organization, analytical thinking, reliability, teamwork and commitment.
 
